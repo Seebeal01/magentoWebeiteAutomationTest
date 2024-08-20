@@ -5,8 +5,8 @@
     <classes>
       <class name="magento.Magento">
         <methods>
-          <include name="Reviews"/>
           <include name="mystub"/>
+          <include name="addmanItem"/>
         </methods>
       </class> <!-- magento.Magento -->
     </classes>
